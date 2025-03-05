@@ -62,8 +62,9 @@ ORDER BY name;
 #### Output
 | id | name   | age | gender | city       |
 |----|--------|-----|--------|------------|
-| 4  | Varsha | 18  | F      | Mumbai     |
 | 1  | Rohan  | 18  | M      | Bengaluru  |
+| 4  | Varsha | 18  | F      | Mumbai     |
+
 
 ### Notes
 - By default, **ORDER BY** sorts in ascending order.
